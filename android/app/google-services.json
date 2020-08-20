@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "521100562104",
+    "firebase_url": "https://sudoku-free-e1dc6.firebaseio.com",
+    "project_id": "sudoku-free-e1dc6",
+    "storage_bucket": "sudoku-free-e1dc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521100562104:android:69d74f67b13a2d403d6e4d",
+        "android_client_info": {
+          "package_name": "com.codewheelapps.sudoku_free"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521100562104-oknk6rh0r6ovd2ufqstuhdpfbinskt32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWEhP-QhGsTHK0oWN9akY9vwNz5J5dfUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521100562104-oknk6rh0r6ovd2ufqstuhdpfbinskt32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
